@@ -52,3 +52,11 @@ env = gym.make("pixelate_arena-v0")
      This will reset the whole arena. This function cannot be used for your final submission.
 
 3. You can refer the file **function_info.py** to see the documentation of the different functions and **aruco_test.py** to see the detection of aruco marker.
+
+## Solution
+After activating your virtual environment
+
+     cd solution
+     
+     python BOT.py
+     
